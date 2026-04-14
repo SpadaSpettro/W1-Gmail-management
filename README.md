@@ -1,20 +1,18 @@
-###### W1 - Gestione Gmail
+###### W1 - Gmail Management
+* A workflow that automatically reads emails in Gmail, saves the attachments in Drive, and notifies everything via Slack.
+* A workflow that automatically reads messages in Slack, creates a file in Drive, and sends it via email.
 
-* Un flusso di lavoro che automaticamente legge le mail di Gmail, ne salva l'allegato su Drive e comunica il tutto su Slack.
-* Un flusso di lavoro che automaticamente legge i messaggi in Slack, crea un file su Drive e lo invia tramite mail.
 
-###### 
 
-###### Come utilizzare il progetto:
+###### How to use the project:
 
-**Il progetto è stato realizzato in n8n.**
+**The project was created in n8n.**
 
-* Per visualizzare e utilizzare i flussi di lavoro sarà sufficiente scaricare i file .json e importarli in un worflow nella propria istanza di n8n.
-* In alternativa è possibile copiare il codice dai file .json e incollarlo in un proprio file .json da importare nella propria istanza di n8n.
+* To view and use the workflows, simply download the .json files and import them into the workflows in your n8n instance.
+* Alternatively, you can copy the code from the .json files and paste it into your own .json files to import into your n8n instance.
 
 
 
 ###### Strumenti utilizzati:
 
 **n8n, Gmail, Google Drive, Slack.**
-
