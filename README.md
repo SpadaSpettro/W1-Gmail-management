@@ -13,6 +13,6 @@
 
 
 
-###### Strumenti utilizzati:
+###### Tools used:
 
 **n8n, Gmail, Google Drive, Slack.**
